@@ -3,6 +3,12 @@ Geolocating photos. Project for #douhack 2015
 
 
 ## How to run?
+Extra step on MacOS
+```
+rm ./source/images/.DS_Store
+rm ./source/test_images/.DS_Store  
+```
+then
 ```
 python testORB.py
 ```
