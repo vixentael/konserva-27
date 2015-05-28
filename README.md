@@ -1,4 +1,6 @@
 # konserva-27
+
+[![Join the chat at https://gitter.im/vixentael/konserva-27](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vixentael/konserva-27?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Geolocating photos. Project for #douhack 2015
 
 
